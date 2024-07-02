@@ -64,7 +64,9 @@ Dentro do arquivo "**index.html**", o seu conteúdo será:
               v-for="variant in variants" 
               :key="variant.id" 
               @mouseover="updateImage(variant.image)" 
-            >{{ variant.color }}</div>
+              class="color-circle">
+              {{ variant.color }} 
+            </div>
             <button class="button" @click="addToCart">Add to Cart</button>
           </div>
         </div>
