@@ -1,4 +1,4 @@
-<h1 align="center"> Tutorial 9. Components & Props (Componentes e Propriedades) </h1>
+<h1 align="center"> Tutorial 6. Components & Props (Componentes e Propriedades) </h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>
